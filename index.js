@@ -9,6 +9,7 @@ app.get('/', (req, res) => {
 })
 
 // some dummy comment
+
 // another dummy comment
 
 app.listen(port, () => {
